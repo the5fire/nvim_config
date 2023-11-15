@@ -78,6 +78,8 @@ local plugins = {
     },
   },
 
+  {'akinsho/toggleterm.nvim', version = "*", config = true},
+
 }
 local opts = {} -- 注意要定义这个变量
 
